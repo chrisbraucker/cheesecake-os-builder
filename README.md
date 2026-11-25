@@ -1,6 +1,6 @@
 # Cheesecake OS builder
 
-This repository currently provides the independent offline validation gate for the Cheesecake NS65741/8149 recovery candidate.
+This repository currently provides the independent offline validation gate for the Cheesecake [NS65741/8149](https://ftvdb.com/echo/firmware/com.amazon.cheesecake.android.os/7ef4610d48dd08558440e42e63521d52-13222532484-fire-os-6574-1-ns65741-8149-2026-09-29/) recovery candidate.
 
 It does not yet build a rooted OS or provide a RAM-only loader.
 
